@@ -1,0 +1,6 @@
+{
+  "name": "StudyHub AI",
+  "description": "A comprehensive educational platform for students featuring interactive study notes, PYQs, adaptive mock tests, and AI-powered learning assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
